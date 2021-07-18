@@ -1,0 +1,6 @@
+POST http://localhost:3000/add
+Content-Type: application/json
+
+{
+        "html": "<h1>Hello Bharat</h1><p>This is interview task please download and check it.</p>"
+}
